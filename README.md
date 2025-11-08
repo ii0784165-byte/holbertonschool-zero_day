@@ -1,1 +1,1 @@
-my first readme
+This is miy first holberton project
